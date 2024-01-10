@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Mobiles.MI">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Mi"
+        android:textSize="35sp"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="35dp"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Xiaomi korporatsiyasi ( Xitoy trad .kíngíngján , esp.jínjínín , pinyin Xiǎomǐ Jítuán , palla . Xiaomi Zituán ; stilize XiaoMi ) — 2010 - yilda Ley Jun tomonidan asos solingan Xitoy korporatsiyasi [4] . 2021 yilda u smartfonlar savdosi bo'yicha yetakchiga aylandi [5] . Smartfonlardan tashqari, u boshqa elektronika ishlab chiqaradi va sotadi: smart televizorlar , planshetlar , aqlli soatlar , shuningdek maishiy texnika , elektr skuterlar , elektr velosipedlar va boshqalar. U smartfonlar va boshqa MIUI elektronika uchun proshivka , shuningdek, narsalar interneti uchun turli ilovalar va muhitlar ishlab chiqaruvchisi . Elektron mahsulotlarni sotadigan o'z do'konlari tarmog'iga ega."
+        android:textSize="18sp"
+        android:padding="10dp"/>
+
+</LinearLayout>
